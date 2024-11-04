@@ -1,7 +1,7 @@
 ## Hi there 👋
 Welcome to my GitHub! I'm Anisha Karthikeyan, a data analyst with a strong background in data analysis, consulting, and programming. I have a passion for transforming complex data into meaningful insights and building intuitive, interactive dashboards. 
 
-My work involves data transformation, analysis, and visualization for complex datasets, with experience in Python, SQL, ML and ETL processes. I've contributed to projects that assess economic impacts, analyze trends over time, and enhance data accuracy through geolocation standardization. I’m passionate about uncovering actionable insights from data, especially in sectors like healthcare, technology, and consumer markets. Whether it's identifying patterns in biomarker data or exploring seasonal trends, I enjoy connecting the dots to support evidence-based decision-making.
+My work involves data transformation, analysis, and visualization for complex datasets, with experience in Python, SQL and ETL processes. I've contributed to projects that assess economic impacts, analyze trends over time, and enhance data accuracy through geolocation standardization. I’m passionate about uncovering actionable insights from data, especially in sectors like healthcare, technology, and consumer markets. Whether it's identifying patterns in biomarker data or exploring seasonal trends, I enjoy connecting the dots to support evidence-based decision-making.
 
 Let's connect if you share an interest in data science, economics, or high-impact data solutions!
 
